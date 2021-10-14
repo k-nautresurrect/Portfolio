@@ -1,0 +1,17 @@
+div.navigation {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-items: center;
+}
+
+
+
+.profile {
+    background-color: white;
+    box-shadow: 0 0.5rem 2rem 0 rgb(148, 148, 148);
+    border-radius: 50%;
+    width: 8rem;
+    height: 8rem;
+    margin-top: 2rem;
+}
