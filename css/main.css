@@ -1,0 +1,14 @@
+.main-content{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+div.introduction{
+    height: 20rem;
+    width: 30rem;
+    box-shadow: 0 0.5rem 2rem 0 rgb(148, 148, 148);
+    margin-top: 2rem;
+    border-radius: 2rem;
+}
