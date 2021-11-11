@@ -15,3 +15,49 @@ div.navigation {
     height: 8rem;
     margin-top: 2rem;
 }
+
+div.intro {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-items: center;
+}
+
+p.myself > span{
+    font-family: 'Indie Flower', cursive;
+    font-weight: 600;
+    font-size: 16pt;
+}
+
+.myself {
+    padding: 10px;
+    width: 10rem;
+    margin-top: 2rem;
+    text-align: center;
+}
+
+div.familiar-row {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px;
+}
+
+div.familiar-col {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-items: center;
+    padding: 10px;
+    margin-top: 1rem;
+}
+
+div.familiar-col > img{
+    width: 4rem;
+}
+
+div.familiar-row > img{
+    width: 3.5rem;
+    padding: 15px;
+}
