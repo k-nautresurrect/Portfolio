@@ -25,6 +25,7 @@ section.hero{
     height: auto;
     flex-basis: 20rem;
     margin-top: 3.5rem;
+    align-self: flex-start;
 }
 
 section.main{
