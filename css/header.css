@@ -35,3 +35,8 @@ div.navbar > span{
     background-color: black;
     margin: 2px;
 }
+
+p.my-name {
+    color: rgb(2, 116, 2);
+    font-weight: 700;
+}

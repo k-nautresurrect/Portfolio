@@ -8,12 +8,19 @@ div.navigation {
 
 
 .profile {
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     box-shadow: 0 0.5rem 2rem 0 rgb(148, 148, 148);
     border-radius: 50%;
     width: 8rem;
     height: 8rem;
     margin-top: 2rem;
+}
+
+.myprofile {
+    border-radius: 50%;
+    width: 8rem;
+    height: 8rem;
+
 }
 
 div.intro {
@@ -60,4 +67,16 @@ div.familiar-col > img{
 div.familiar-row > img{
     width: 3.5rem;
     padding: 15px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(41, 41, 41);
+}
+
+div.intro > div { 
+    width: 80%;
+    margin: 10px;
+    text-align: center;
+    font-weight: 900;
 }
