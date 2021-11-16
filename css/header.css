@@ -4,6 +4,7 @@ div.header{
     justify-content: space-between;
     padding: 0 5% 0 5%;
     backdrop-filter: blur(2rem);
+    min-width: 360px;
 }
 
 div.name{
